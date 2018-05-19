@@ -1,8 +1,8 @@
 # Optimization strategies for anomaly detection with One class Support Vector Machines (OCSVM)
 
-Project for the course "Optimization for Data Science" (Lecturer: Alexandre Gramfort, Master Data Science)
+Project for the course "Optimization for Data Science" (lecturer: Alexandre Gramfort, Master Data Science)
 
-## Aim
+## Aims
 - Derive the dual for the one-class SVM model,
 
 - implement a one-class SVM using a blackbox convex toolbox (cvxopt in Python),
